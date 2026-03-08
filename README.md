@@ -10,6 +10,10 @@
 
 Projeto de **automação de testes de API** utilizando **Robot Framework**, criado para praticar testes automatizados, validação de respostas HTTP e organização de cenários de teste.
 
+## Sobre o Projeto
+
+Este projeto foi desenvolvido durante uma **aula prática do FEST**, com o objetivo de treinar **automação de testes de API utilizando Robot Framework**.
+
 Este projeto faz parte do meu processo de aprendizado e prática na área de **Quality Assurance (QA)** e **Test Automation**.
 
 ---
